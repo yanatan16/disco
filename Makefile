@@ -43,7 +43,7 @@ UNAME = $(shell uname)
 # utilities used for building disco
 DIALYZER   = dialyzer
 TYPER      = typer
-PYTHON     = python2.7$
+PYTHON     = python2.7
 PY_INSTALL = $(PYTHONENVS) $(PYTHON) setup.py install --root=$(DESTDIR)/ --prefix=$(prefix) $(PY_INSTALL_OPTS)
 
 WWW   = master/www

@@ -1,4 +1,4 @@
-#!/usr/bin/env python2.7$
+#!/usr/bin/env python2.7
 import os
 from distutils.core import setup
 
