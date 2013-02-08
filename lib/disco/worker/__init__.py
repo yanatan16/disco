@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2.7$
 """
 :mod:`disco.worker` -- Python Worker Interface
 ==============================================

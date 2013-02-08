@@ -225,7 +225,7 @@ frequencies in `a text file <http://discoproject.org/media/text/chekhov.txt>`_
 to see that the system works correctly.
 
 .. literalinclude:: ../../examples/util/count_words.py
-   :language: python
+   :language: python2.7$
 
 Run the script as follows from :envvar:`DISCO_HOME`::
 
